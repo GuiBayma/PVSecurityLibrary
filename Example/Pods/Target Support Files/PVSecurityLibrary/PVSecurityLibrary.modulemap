@@ -1,0 +1,6 @@
+framework module PVSecurityLibrary {
+  umbrella header "PVSecurityLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

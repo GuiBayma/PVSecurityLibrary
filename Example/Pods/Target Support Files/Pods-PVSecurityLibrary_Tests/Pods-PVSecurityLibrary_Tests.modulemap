@@ -1,0 +1,6 @@
+framework module Pods_PVSecurityLibrary_Tests {
+  umbrella header "Pods-PVSecurityLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

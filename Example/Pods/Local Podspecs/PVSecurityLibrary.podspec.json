@@ -1,0 +1,22 @@
+{
+  "name": "PVSecurityLibrary",
+  "version": "0.1.0",
+  "summary": "Cuida da parte de segurança do app PasswordVault",
+  "description": "Biblioteca para cuidar da segurança do aplicativo PasswordVault.\nExiste apenas com o intuito de praticar a criação de bibliotecas com o Cocoapods.",
+  "homepage": "https://github.com/guibayma/PVSecurityLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guibayma": "gfbayma@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/GuiBayma/PVSecurityLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PVSecurityLibrary/Classes/**/*"
+}
